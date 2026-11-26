@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "platial-hgis"
+version = "0.1.0"
+description = "Evidence-bound platial & fuzzy spatiotemporal historical GIS graph engine"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+  {name = "Charles-delapore", email = "274112562+Charles-delapore@users.noreply.github.com"}
+]
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "pyarrow>=14.0",
+  "shapely>=2.0",
+  "PyYAML>=6.0",
+  "jsonschema>=4.18",
+]
+
+[project.optional-dependencies]
+geopandas = ["geopandas>=0.14", "pyproj>=3.5"]
+duckdb = ["duckdb>=0.10"]
+dev = ["pytest>=8.0", "ruff>=0.4"]
+
+[project.scripts]
+platial-hgis = "platial_hgis.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
