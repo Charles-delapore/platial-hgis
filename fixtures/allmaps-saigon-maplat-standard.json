@@ -1,0 +1,70 @@
+{
+  "title": "Saigon map (BnF Gallica btv1b530297676) — Maplat standard-format worked example derived from Allmaps Georeference Annotation 1bfb1eb4198e7240",
+  "attr": "Bibliotheque nationale de France, via Allmaps (annotation CC0). Worked example only: GCPs converted from the Allmaps annotation (lon/lat) to Web Mercator (EPSG:3857) as Maplat requires.",
+  "width": 16267,
+  "height": 14859,
+  "year": "2026-10-06 (annotation created)",
+  "url": "https://annotations.allmaps.org/maps/1bfb1eb4198e7240",
+  "gcps": [
+    [
+      [
+        7279,
+        6817
+      ],
+      [
+        11877500.24,
+        1207065.39
+      ]
+    ],
+    [
+      [
+        3626,
+        2403
+      ],
+      [
+        11876247.76,
+        1208584.69
+      ]
+    ],
+    [
+      [
+        10202,
+        2743
+      ],
+      [
+        11878502.11,
+        1208493.24
+      ]
+    ],
+    [
+      [
+        10840,
+        12239
+      ],
+      [
+        11878724.75,
+        1205195.68
+      ]
+    ],
+    [
+      [
+        6817,
+        5667
+      ],
+      [
+        11877333.26,
+        1207462.01
+      ]
+    ],
+    [
+      [
+        8833,
+        8026
+      ],
+      [
+        11878023.44,
+        1206657.45
+      ]
+    ]
+  ]
+}

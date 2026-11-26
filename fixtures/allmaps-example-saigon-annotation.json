@@ -1,0 +1,187 @@
+{
+  "id": "https://annotations.allmaps.org/maps/1bfb1eb4198e7240",
+  "type": "Annotation",
+  "@context": [
+    "http://iiif.io/api/extension/georef/1/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "created": "2026-10-06T10:20:33.764Z",
+  "modified": "2026-10-06T10:20:33.764Z",
+  "motivation": "georeferencing",
+  "target": {
+    "type": "SpecificResource",
+    "source": {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530297676/f1",
+      "type": "ImageService3",
+      "height": 14859,
+      "width": 16267,
+      "partOf": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530297676/canvas/f1",
+          "type": "Canvas",
+          "label": {
+            "none": [
+              "NP"
+            ]
+          },
+          "partOf": [
+            {
+              "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b530297676/manifest.json",
+              "type": "Manifest",
+              "label": {
+                "none": [
+                  "BnF, département Cartes et plans, GE C-2682 (1-4)"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "provider": [
+        {
+          "label": {
+            "none": [
+              "Bibliothèque nationale de France"
+            ]
+          },
+          "homepage": [
+            {
+              "id": "https://gallica.bnf.fr/"
+            }
+          ]
+        }
+      ]
+    },
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg width=\"16267\" height=\"14859\"><polygon points=\"681,647 687,14255 13688,14181 13980,14304 14484,14304 15323,14183 15647,14183 15639,787 8166,765\" /></svg>"
+    }
+  },
+  "body": {
+    "type": "FeatureCollection",
+    "transformation": {
+      "type": "polynomial",
+      "options": {
+        "order": 1
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            7279,
+            6817
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.6974,
+            10.7791
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            3626,
+            2403
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.68614884668023,
+            10.79250698454544
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            10202,
+            2743
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.7064,
+            10.7917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            10840,
+            12239
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.7084,
+            10.7626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            6817,
+            5667
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.6959,
+            10.7826
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "resourceCoords": [
+            8833,
+            8026
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.7021,
+            10.7755
+          ]
+        }
+      }
+    ],
+    "_allmaps": {
+      "id": "https://annotations.allmaps.org/maps/1bfb1eb4198e7240",
+      "version": "https://annotations.allmaps.org/maps/1bfb1eb4198e7240@c83337fa4b8051c9",
+      "image": {
+        "id": "https://annotations.allmaps.org/images/ed90c4244dbb9361",
+        "version": "https://annotations.allmaps.org/images/ed90c4244dbb9361@d2cb661e0e2e7d83",
+        "canvases": [
+          {
+            "id": "https://annotations.allmaps.org/canvases/2021cc82a45a6c47",
+            "manifests": [
+              {
+                "id": "https://annotations.allmaps.org/manifests/24a731a5a947ebda"
+              }
+            ]
+          }
+        ]
+      },
+      "scale": 2.957621,
+      "area": 23053746.02
+    }
+  }
+}

@@ -1,0 +1,20 @@
+period,source,contributor,data_categories,biographies_note,source_url_or_reference
+Tang 唐,Tang Knowledgebase Project (Kyoto University, Zinbun),Christian Wittern and CBDB editors,"Person names, dates, places, offices, social distinction, kinship (selective)",3700,https://tkb.zinbun.kyoto-u.ac.jp
+Tang 唐,"Zhou Shaoliang 周紹良 and Zhao Chao 趙超. Tang dai mu zhi hui bian xu ji 唐代墓誌彙編續集 (2001); Tang dai mu zhi hui bian 唐代墓志彙編 (1992)",Ping YAO 姚平 and CBDB editors,"Person names, kinship, office, place",5000,Shanghai gu ji chu ban she 上海古籍出版社
+Tang wu dai 唐五代,唐末五代初墓誌銘,Nicholas Tackett,"Person names, place, office, kinship",22000,
+Song 宋,Original CBDB dataset,Robert M. Hartwell,All categories,25000,
+Song 宋,"Chang Bide 昌彼得, Wang Deyi 王德毅, et al. Song ren zhuan ji zi liao suo yin 宋人傳記資料索引 (1974, Ding wen shu ju 鼎文書局; digital editions with corrections by Wang Deyi)",CBDB editors,"Person names, places, entry into office, office postings, kinship, social distinction",25000,
+Song 宋,"Li Zhiliang 李之亮. Song Chuan Shan / Fujian / Hebei Hedong / liang Guang / liang Hu / liang Huai / liang Jiang / liang Zhe lu jun shou nian biao & yi ti kao (Ba Shu shu she 巴蜀書社, 2001)",CBDB editors,Official appointments (posting data),"4100 persons, 22600 appointments",
+Song 宋,"Xu Song 徐松輯. Song hui yao ji gao 宋會要輯稿 (Zhonghua shu ju 中華書局, 1957)",CBDB editors and Center for Digital Humanities National Taiwan University,"Person names, official appointments",(processing),
+Song 宋,"Tuotuo 脫脫. Song shi 宋史 (Zhonghua shu ju 中華書局, 1977)",CBDB editors,"Official appointments, kinship",(processing),
+Song 宋,"Zeng Zaozhuang 曾枣庄 and Liu Lin 劉琳 eds. Quan Song wen 全宋文 (Shanghai cishu chubanshe 上海辭書出版社, 2006)",Chu Ping-tzu 祝平次 and CBDB editors,Letters,(processing),
+Yuan 元,"Wang Deyi 王德毅, Li Rongcun 李榮村, Pan Bocheng 潘柏澄. Yuan ren zhuan ji zi liao suo yin 元人傳記資料索引 (Xin wen feng 新文豐, 1979)",CBDB editors,All,18000,
+Ming 明,"Guo li zhong yang tu shu guan 國立中央圖書館. Ming ren zhuan ji zi liao suo yin 明人傳記資料索引 (1965)",Institute of History and Philology Academia Sinica and CBDB editors,All,27000,
+Ming 明,Ming shi 明史列傳,TBC,TBC,(processing),
+Ming Qing 明清,明清檔案人名權威資料查詢 (Academia Sinica and National Palace Museum),Institute of History and Philology Academia Sinica and CBDB editors,All,46000,https://archive.ihp.sinica.edu.tw
+Ming Qing 明清,Ming Qing Women's Writings 明清婦女著作資料庫 (McGill University),CBDB editors,"Names, addresses, social relations",8300,https://digital.library.mcgill.ca
+Qing 清,"Jiang Qingbo 江庆柏. Qing dai ren wu sheng zu nian biao 清代人物生卒年表 (Ren min wen xue chu ban she 人民文学出版社, 2005)",CBDB editors,Person names and dates,21500,
+Han to Qing 汉至清,DDBC Person Authority Database 法鼓山人名規範資料庫 (Dharma Drum Buddhist College),Simon Wiles,"Names, places, and writings","19000 (processing)",https://authority.ddbc.edu.tw
+Han to Qing 汉至清,DDBC Place Authority Database 法鼓山地名規範資料庫 (Dharma Drum Buddhist College),Simon Wiles,Buddhist temples (social institutions),(processing),https://authority.ddbc.edu.tw
+Song 宋,Dataset of academies collected by S. Ford and L. Walton,S. Ford,Academies 書院 (social institutions),1004 academies,
+Han to Qing 汉至清,矢島玄亮編. 中國の寺院. 仙台: 東北大學附屬図書館 1966,S. Ford,Buddhist temples (social institutions),2400,
